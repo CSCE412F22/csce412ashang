@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://ashang1524.github.io/ashang1524/ashang1524.github.io",
+  "homepage": "https://ashang1524.github.io/ashang1524.github.io",
   "private": true,
   "dependencies": {
     "@react-pdf/renderer": "^2.2.0",
