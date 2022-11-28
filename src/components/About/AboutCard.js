@@ -9,7 +9,7 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi internet stranger, I'm <span className="purple">Andrew Shang. </span>
-            <br />I am a senior majoring in Computer Science with a Math minor at Texas A&M University
+            <br />sup
             <br />
             <br />
             I try to go out and touch grass. Sometimes...
