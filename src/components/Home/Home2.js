@@ -12,7 +12,7 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-             dsfdsfdsfdsfdsf.<br></br> I'll just give it to you. 
+             dsfdsfdsfdsfsdffggh.<br></br> I'll just give it to you. 
             </h1>
             <p className="home-about-body">
               I just did a few things and now I program for a living &nbsp; 🤷‍♂️
